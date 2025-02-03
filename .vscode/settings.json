@@ -3,7 +3,7 @@
   "window.zoomLevel": 1,
   "editor.fontLigatures": true,
   "editor.lineHeight": 25,
-  "editor.fontSize": 14,
+  "editor.fontSize": 13,
   "workbench.colorCustomizations": {
     "[Tokyo Night]": {
       "editor.selectionBackground": "#3D59A1",
